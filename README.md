@@ -21,3 +21,21 @@ You play as Mewie, a magical cat who awakens in a surreal dreamworld shaped by h
 - **Language**: C#
 - **Assets**: Custom assets + Open-source platforms
 - **Version Control**: Git & GitHub
+  
+## 📸 Media
+
+Follow me on LinkedIn - www.linkedin.com/in/preettatkari
+
+📽️ [Watch the Official Trailer on LinkedIn](https://www.linkedin.com/posts/preettatkari_gamedev-3dgame-mewiesquest-activity-7337511378070441985-2YLl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
+
+
+🎬 [Watch Raw Gameplay Footage on LinkedIn](https://www.linkedin.com/posts/preettatkari_gamedev-unity3d-3dplatformer-activity-7338570381961613312-oLmN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0)  
+
+
+## 🚀 Getting Started
+
+> ⚠️ This repository contains project files for Unity. Unity 2021.3+ or later is recommended.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PreetTatkari/Mewie-s-Quest.git
