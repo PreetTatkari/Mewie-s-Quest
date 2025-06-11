@@ -1,27 +1,27 @@
-#🐾 Mewie’s Quest
-Mewie’s Quest is a whimsical 3D action-platformer built using Unity. Developed in just one week for a Model Making Competition, it combines magical gameplay, playful charm, and fast-paced action in a dreamlike world full of challenges and surprises.
+🐾 Mewie’s Quest
+Mewie’s Quest is a whimsical 3D action-platformer built using Unity. Developed in just one week for a Model Making Competition, it features a magical feline protagonist, dreamlike levels, and charming presentation packed with personality and polish.
 
-#🎮 Gameplay Overview
-You play as Mewie, a magical cat who wakes up in a surreal dreamworld shaped by her deepest fears. As you journey through dream-inspired levels, you’ll face giant yarn balls, haunted showers, and mysterious enemies. Armed with close and long-range magic, you’ll leap, dodge, and cast your way through puzzles and boss battles to unravel the truth behind the dream.
+🎮 Gameplay Overview
+You play as Mewie, a magical cat lost in a fantastical dreamworld shaped by her deepest fears. To escape, she must journey through imaginative landscapes, confront giant rolling yarn balls and haunted showers, and master both close-range and long-range magic. With animated cutscenes and environmental challenges, the game unfolds a heartwarming and mysterious story.
 
-#🧠 Key Features
-Dream-Inspired Levels: Two unique levels with hand-crafted hazards and themed boss fights.
+🧠 Key Features
+Dream-Inspired Levels: Two distinct stages with creative platforming and unique boss encounters.
 
-Magic Combat System: Dual-style magic — switch between long-range blasts and close-range attacks with cooldown mechanics.
+Dual Magic System: Long-range spells and close-range attacks with cooldown mechanics.
 
-Platforming & Exploration: Navigate tricky environments with jumping puzzles and moving platforms.
+Platforming & Combat: Combine agility and magic to overcome puzzles and enemies.
 
-Clean UI: Visuals for health and power are neatly displayed with intuitive feedback.
+Clean UI: A polished interface clearly shows health and power usage.
 
-Cutscenes: Story-driven animations, including an emotional dream-reveal ending.
+Cutscenes: Animated moments including a dream-reveal ending for narrative depth.
 
-Polished Presentation: Charming menu screen and consistent art style throughout the game.
+Adorable Presentation: Custom menu screen and charming visuals throughout.
 
-#🛠️ Tech Stack
+🛠️ Tech Stack
 Engine: Unity
 
 Language: C#
 
-Assets: Custom + Open-source models from trusted platforms
+Assets: Custom-made + Open-source (e.g., Sketchfab)
 
 Version Control: Git & GitHub
