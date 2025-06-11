@@ -1,0 +1,44 @@
+# Blender MTL File: 'REALISTIC.blend'
+# Material Count: 3
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.077998 0.015006 0.005588
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Material.001_normal.png
+map_Ns Material.001_roughness.png
+map_d Material.001_opacity.png
+refl Material.001_metallic.png
+
+newmtl Material.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Material.002_normal.png
+map_Kd Material.002_baseColor.png
+map_Ns Material.002_roughness.png
+map_d Material.002_opacity.png
+refl Material.002_metallic.png
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Material.009_normal.png
+map_Kd Material.009_baseColor.png
+map_Ns Material.009_roughness.png
