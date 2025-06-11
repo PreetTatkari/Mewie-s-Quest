@@ -26,7 +26,7 @@ You play as Mewie, a magical cat who awakens in a surreal dreamworld shaped by h
 
 Follow me on LinkedIn - www.linkedin.com/in/preettatkari
 
-📽️ [Watch the Official Trailer on LinkedIn](https://www.linkedin.com/posts/preettatkari_gamedev-3dgame-mewiesquest-activity-7337511378070441985-2YLl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
+📽️ [Watch the Official Game Trailer on LinkedIn](https://www.linkedin.com/posts/preettatkari_gamedev-3dgame-mewiesquest-activity-7337511378070441985-2YLl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0) 
 
 
 🎬 [Watch Raw Gameplay Footage on LinkedIn](https://www.linkedin.com/posts/preettatkari_gamedev-unity3d-3dplatformer-activity-7338570381961613312-oLmN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE93YwQBhEkmK3Yv3vbawTlddB5LmkfNIH0)  
